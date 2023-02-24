@@ -11,21 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Habilitation (Dr. rer. nat. habil.) in Computer Science, University of Bayreuth, 2017
+* Phd (Dr. rer. nat.) in Computer Science, University of Bayreuth, 2010
+* Diploma (Dipl.) in Mathematics and Computer Science, University of Bayreuth, 2002
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 2022: Professor for Software Engineering
+  * Deggendorf Institute of Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2011-2022: Postdoctoral Researcher
+  * University of Bayreuth
+  * 
+  * Supervisor: Prof. Dr. Bernhard Westfechtel
+
+* 2005-2011: Research Assistant
+  * University of Bayreuth
+  * 
+  * Supervisor: Prof. Dr. Bernhard Westfechtel
+  
+* Nov 2002 - April 2005: Manager Software Engineering
+  * DESKO GmbH
+  * Duties included: Leading an international team, leading software projects
+  
+* March 2002 - Oct 2002: Software Project Manager
+  * Weig Software GmbH
   
 Skills
 ======
