@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 * Habilitation (Dr. rer. nat. habil.) in Computer Science, University of Bayreuth, 2017
 * Phd (Dr. rer. nat.) in Computer Science, University of Bayreuth, 2010
 * Diploma (Dipl.) in Mathematics and Computer Science, University of Bayreuth, 2002
 
 Work experience
-======
+-----
 * since 2022: Professor for Software Engineering
   * Deggendorf Institute of Technology
 
@@ -38,7 +38,7 @@ Work experience
   * Weig Software GmbH
   
 Skills
-======
+-----
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -46,24 +46,21 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+-----
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+-----
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
