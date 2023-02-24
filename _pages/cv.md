@@ -22,12 +22,10 @@ Work experience
 
 * 2011-2022: Postdoctoral Researcher
   * University of Bayreuth
-  * 
   * Supervisor: Prof. Dr. Bernhard Westfechtel
 
 * 2005-2011: Research Assistant
   * University of Bayreuth
-  * 
   * Supervisor: Prof. Dr. Bernhard Westfechtel
   
 * Nov 2002 - April 2005: Manager Software Engineering
@@ -46,6 +44,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Publications
 -----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
