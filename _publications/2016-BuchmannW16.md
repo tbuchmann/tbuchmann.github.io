@@ -9,4 +9,11 @@ venue: 'IET Software'
 paperurl: ''
 ---
 
-#Abstract
+Published in *IET Software*, 2016
+
+DOI: [10.1049/iet-sen.2015.0125](https://doi.org/10.1049/iet-sen.2015.0125)
+
+Abstract
+=====
+
+Model-driven software engineering is supported with the help of model transformations. At present, the technology for defining and executing unidirectional batch transformations seems to be fairly well developed, while bidirectional and incremental transformations are more difficult to handle. In this paper, we present a bidirectional and incremental transformation tool for round-trip engineering between class diagrams and Java source code. Unlike other approaches, the tool may work with arbitrary Java code rather than only with source code following specific coding conventions. For its realization, we selected triple graph grammars (TGGs) because they allow to generate bidirectional incremental transformations from a single set of undirected rules. When applying TGGs, we observed several strengths and weaknesses which are also discussed in this paper. 

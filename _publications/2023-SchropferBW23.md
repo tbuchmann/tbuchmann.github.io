@@ -9,7 +9,9 @@ venue: 'SN Computer Science'
 paperurl: ''
 ---
 
-Published in *SN Computer Science (SNCS)*, 2023
+Published in *SN Computer Science*, 2023
+
+DOI: [10.1007/s42979-022-01456-8](https://doi.org/10.1007/s42979-022-01456-8)
 
 Abstract
 =====

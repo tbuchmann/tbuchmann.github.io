@@ -9,4 +9,11 @@ venue: 'Model-Driven Engineering and Software Development - 7th International Co
 paperurl: ''
 ---
 
-#Abstract
+Published in *Model-Driven Engineering and Software Development - 7th International Conference, MODELSWARD 2019, Prague, Czech Republic, February 20-22, 2019, Revised Selected Papers*, 2019
+
+DOI: [10.1007/978-3-030-37873-8_1](https://doi.org/10.1007/978-3-030-37873-8_1)
+
+Abstract
+=====
+
+The state of the art in model-driven software engineering is a combination of structural modeling and conventional programming to supply the operational behavior of the system. This fact leads to the so-called code generation dilemma when model and hand-written code evolve independently during the software development process. In this paper we present an approach of integrating two OMG standards to overcome this problem: A tight integration of UML used for structural modeling and the Action Language for Foundational UML (ALF) for behavioral modeling using a textual surface notation leads to a full-blown model-driven process which allows for the generation of fully executable source code. Supplying hand-written code fragments in the target language is no longer necessary.

@@ -9,4 +9,9 @@ venue: 'Software Engineering 2010 - Workshopband (inkl. Doktorandensymposium), F
 paperurl: ''
 ---
 
-#Abstract
+Published in *Software Engineering 2010 - Workshopband (inkl. Doktorandensymposium), Fachtagung des GI-Fachbereichs Softwaretechnik, 22.-26.02.2010, Paderborn*, 2010
+
+Abstract
+=====
+
+Modellgetriebene Softwareentwicklung zielt darauf ab, den Aufwand zur Erstellung komplexer Softwaresysteme mit Hilfe von ausführbaren Modellen zu reduzieren, die auf einer höheren Abstraktionsebene liegen als Programmcode. Derzeit wird eine große Fülle von Ansätzen entwickelt, um modellgetriebene Entwicklung effizient zu unterstützen. Um die Tauglichkeit dieser Ansätze zu überprüfen, werden nichttriviale Fallstudien dringend benötigt. Dieser Aufsatz berichtet über ein Projekt, das sich die modellgetriebene Entwicklung von Versionskontrollsystemen zum Ziel setzt. Der Schwerpunkt liegt dabei auf den Werkzeugen, die zur Entwicklung wiederverwendet bzw. neu entwickelt wurden.

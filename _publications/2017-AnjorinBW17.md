@@ -9,4 +9,9 @@ venue: 'Proceedings of the 10th Transformation Tool Contest (TTC 2017), co-locat
 paperurl: ''
 ---
 
-#Abstract
+Published in *Proceedings of the 10th Transformation Tool Contest (TTC 2017), co-located with the 2017 Software Technologies: Applications and Foundations (STAF 2017), Marburg, Germany, July 21, 2017*, 2017
+
+Abstract
+=====
+
+The Families to Persons case is a well-known example problem for bidirectional transformations. This paper proposes an implementation of this case within the recently developed Benchmarx framework, based on previous conceptual work
