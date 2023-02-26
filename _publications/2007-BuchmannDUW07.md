@@ -4,7 +4,7 @@ author: "Thomas Buchmann and Alexander Dotor and Sabrina Uhrig and Bernhard West
 collection: publications
 permalink: /publication/2007-BuchmannDUW07
 excerpt: 'This paper is about '
-date: 2007-01-01
+year: 2007
 venue: 'Applications of Graph Transformations with Industrial Relevance, Third International Symposium, AGTIVE 2007, Kassel, Germany, October 10-12, 2007, Revised Selected and Invited Papers'
 paperurl: ''
 ---

@@ -4,7 +4,7 @@ author: "Johannes Schröpfer and Thomas Buchmann and Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2023-SchropferBW23
 excerpt: 'This paper is about '
-date: 2023-01-01
+year: 2023
 venue: 'SN Computer Science'
 paperurl: ''
 ---

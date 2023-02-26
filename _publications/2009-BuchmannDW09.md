@@ -4,7 +4,7 @@ author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2009-BuchmannDW09
 excerpt: 'This paper is about '
-date: 2009-01-01
+year: 2009
 venue: 'ICSOFT 2009 - Proceedings of the 4th International Conference on Software and Data Technologies, Volume 1, Sofia, Bulgaria, July 26-29, 2009'
 paperurl: ''
 ---

@@ -4,7 +4,7 @@ author: "Thomas Buchmann and Johannes Baumgartl and Dominik Henrich and Bernhard
 collection: publications
 permalink: /publication/2014-BuchmannBHW14
 excerpt: 'This paper is about '
-date: 2014-01-01
+year: 2014
 venue: 'CoRR'
 paperurl: ''
 ---

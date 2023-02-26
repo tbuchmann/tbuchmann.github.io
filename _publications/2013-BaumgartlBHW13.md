@@ -4,7 +4,7 @@ author: "Johannes Baumgartl and Thomas Buchmann and Dominik Henrich and Bernhard
 collection: publications
 permalink: /publication/2013-BaumgartlBHW13
 excerpt: 'This paper is about '
-date: 2013-01-01
+year: 2013
 venue: 'ICSOFT 2013 - Proceedings of the 8th International Joint Conference on Software Technologies, Reykjavk, Iceland, 29-31 July, 2013'
 paperurl: ''
 ---
