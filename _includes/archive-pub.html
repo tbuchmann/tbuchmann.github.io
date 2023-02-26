@@ -16,10 +16,11 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
     <!-- <h3 class="archive__item-title" itemprop="headline"> -->
-      <a class="archive__item-title" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>      
+      <!-- <a class="archive__item-title" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> -->    
     <!-- </h3> -->              
         {% if post.collection == 'publications' %}
-		  <p><b>{{ post.author }}</b>, <i>{{ post.venue }}, <b>{{ post.year }}</b></i></p>
+		  <p><a class="archive__item-title" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a><br>
+		  <b>{{ post.author }}</b>, <i>{{ post.venue }}, <b>{{ post.year }}</b></i></p>
         {% endif %}   
 
   </article>
