@@ -2,7 +2,7 @@
 title: "Building Graphical Editors with GEF and Fujaba"
 author: "Thomas Buchmann and Alexander Dotor"
 collection: publications
-permalink: /publication/2006-FD2006-Buchmann.md
+permalink: /publication/2006-FD2006-Buchmann
 excerpt: 'This paper is about '
 date: 2006-01-01
 venue: 'Fujaba Days 2006'
