@@ -8,3 +8,5 @@ date: 2007
 venue: 'ICSOFT 2007, Proceedings of the Second International Conference on Software and Data Technologies, Volume SE, Barcelona, Spain, July 22-25, 2007'
 paperurl: ''
 ---
+
+#Abstract

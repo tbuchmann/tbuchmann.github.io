@@ -8,3 +8,5 @@ date: 2012
 venue: '4th International Workshop on Feature-Oriented Software Development, FOSD ’12, Dresden, Germany - September 24 - 25, 2012'
 paperurl: ''
 ---
+
+#Abstract

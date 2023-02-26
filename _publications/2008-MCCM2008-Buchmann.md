@@ -8,3 +8,5 @@ date: 2008
 venue: 'Proceedings 1st International Workshop on Co-Evolution and Consistency Management (MCCM 2008)'
 paperurl: ''
 ---
+
+#Abstract

@@ -8,3 +8,5 @@ date: 2013
 venue: 'ICSOFT 2013 - Proceedings of the 8th International Joint Conference on Software Technologies, Reykjavk, Iceland, 29-31 July, 2013'
 paperurl: ''
 ---
+
+#Abstract

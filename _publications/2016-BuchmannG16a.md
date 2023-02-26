@@ -8,3 +8,5 @@ date: 2016
 venue: 'Software Technologies, 11th International Joint Conference, ICSOFT 2016, Lisbon, Portugal, July 24-26, 2016, Revised Selected Papers'
 paperurl: ''
 ---
+
+#Abstract

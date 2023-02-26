@@ -8,3 +8,5 @@ date: 2012
 venue: 'Joint Proceedings of co-located Events at the 8th European Conference on Modelling Foundations and Applications'
 paperurl: ''
 ---
+
+#Abstract

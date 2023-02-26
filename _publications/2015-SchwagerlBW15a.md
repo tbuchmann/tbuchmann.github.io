@@ -8,3 +8,5 @@ date: 2015
 venue: 'Software Technologies - 10th International Joint Conference, ICSOFT 2015, Colmar, France, July 20-22, 2015, Revised Selected Papers'
 paperurl: ''
 ---
+
+#Abstract

@@ -8,3 +8,5 @@ date: 2010
 venue: 'Software Engineering 2010 - Workshopband (inkl. Doktorandensymposium), Fachtagung des GI-Fachbereichs Softwaretechnik, 22.-26.02.2010, Paderborn'
 paperurl: ''
 ---
+
+#Abstract

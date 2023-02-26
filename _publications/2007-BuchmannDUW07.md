@@ -8,3 +8,5 @@ date: 2007
 venue: 'Applications of Graph Transformations with Industrial Relevance, Third International Symposium, AGTIVE 2007, Kassel, Germany, October 10-12, 2007, Revised Selected and Invited Papers'
 paperurl: ''
 ---
+
+#Abstract

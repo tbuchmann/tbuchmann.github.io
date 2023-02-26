@@ -8,3 +8,5 @@ date: 2011
 venue: 'Software Engineering 2011 - Workshopband (inkl. Doktorandensymposium), Fachtagung des GI-Fachbereichs Softwaretechnik, 21.-25.02.2011, Karlsruhe'
 paperurl: ''
 ---
+
+#Abstract

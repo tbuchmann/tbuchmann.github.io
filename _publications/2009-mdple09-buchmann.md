@@ -8,3 +8,5 @@ date: 2009
 venue: '1st International Workshop on Model-Driven Product Line Engineering (MDPLE'09)'
 paperurl: ''
 ---
+
+#Abstract

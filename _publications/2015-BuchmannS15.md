@@ -8,3 +8,5 @@ date: 2015
 venue: 'ICSOFT-PT 2015 - Proceedings of the 10th International Conference on Software Paradigm Trends, Colmar, Alsace, France, 20-22 July, 2015'
 paperurl: ''
 ---
+
+#Abstract

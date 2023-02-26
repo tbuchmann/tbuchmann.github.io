@@ -8,3 +8,5 @@ date: 2009
 venue: 'ICSOFT 2009 - Proceedings of the 4th International Conference on Software and Data Technologies, Volume 1, Sofia, Bulgaria, July 26-29, 2009'
 paperurl: ''
 ---
+
+#Abstract
