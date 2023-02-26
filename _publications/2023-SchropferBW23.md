@@ -9,6 +9,9 @@ venue: 'SN Computer Science'
 paperurl: ''
 ---
 
-# Abstract
+Published in *SN Computer Science (SNCS)*, 2023
+
+Abstract
+=====
 
 Model-driven software engineering (MDSE) as well as software product line engineering (SPLE) achieve productivity gains by raising the level of abstraction and fostering organized reuse. Consequently, the integrating discipline model-driven software product line engineering (MDSPLE) aims at combining the best of both worlds by creating multi-variant models which are (automatically) configured into single-variant models which are in turn adapted further (if required). Inherently complex multi-variant models call for urgently needed tools providing support for editing multi-variant models. In this paper, we present a framework for projectional multi-variant editors which make complexity manageable using a user-friendly representation. At all times, a domain engineer is aware of editing a multi-variant model which is necessary to assess the impact of changes on all model variants. Supporting a clear separation of product space (domain model) and variant space (variability annotations), our projectional multi-variant editors provide a novel approach to representing variability information which is displayed non-intrusively. Furthermore, the domain engineer may employ a projectional multi-variant editor to adapt the representation of the multi-variant domain model in a flexible way, according to the current focus of interest.
