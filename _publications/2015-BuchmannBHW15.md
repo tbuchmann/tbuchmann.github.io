@@ -4,7 +4,7 @@ author: "Thomas Buchmann and Johannes Baumgartl and Dominik Henrich and Bernhard
 collection: publications
 permalink: /publication/2015-BuchmannBHW15.md
 excerpt: 'This paper is about '
-date: 2015
+date: 2015-01-01
 venue: '5th IEEE/ACM International Workshop on Product Line Approaches in Software Engineering, PLEASE 2015, Florence, Italy, May 19, 2015'
 paperurl: ''
 ---

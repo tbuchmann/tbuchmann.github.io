@@ -4,7 +4,7 @@ author: "Thomas Buchmann and Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2016-BuchmannW16.md
 excerpt: 'This paper is about '
-date: 2016
+date: 2016-01-01
 venue: 'IET Software'
 paperurl: ''
 ---

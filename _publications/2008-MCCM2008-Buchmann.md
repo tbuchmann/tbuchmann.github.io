@@ -4,7 +4,7 @@ author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2008-MCCM2008-Buchmann.md
 excerpt: 'This paper is about '
-date: 2008
+date: 2008-01-01
 venue: 'Proceedings 1st International Workshop on Co-Evolution and Consistency Management (MCCM 2008)'
 paperurl: ''
 ---

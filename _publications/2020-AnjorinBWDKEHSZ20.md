@@ -4,7 +4,7 @@ author: "Anthony Anjorin and Thomas Buchmann and Bernhard Westfechtel and Zinovy
 collection: publications
 permalink: /publication/2020-AnjorinBWDKEHSZ20.md
 excerpt: 'This paper is about '
-date: 2020
+date: 2020-01-01
 venue: 'Software and Systems Modeling (SoSym)'
 paperurl: ''
 ---

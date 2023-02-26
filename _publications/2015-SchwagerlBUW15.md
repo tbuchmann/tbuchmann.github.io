@@ -4,7 +4,7 @@ author: "Felix Schwägerl and Thomas Buchmann and Sabrina Uhrig and Bernhard Wes
 collection: publications
 permalink: /publication/2015-SchwagerlBUW15.md
 excerpt: 'This paper is about '
-date: 2015
+date: 2015-01-01
 venue: 'MODELSWARD 2015 - Proceedings of the 3rd International Conference on Model-Driven Engineering and Software Development, ESEO, Angers, Loire Valley, France, 9-11 February, 2015'
 paperurl: ''
 ---

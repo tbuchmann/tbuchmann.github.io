@@ -4,7 +4,7 @@ author: "Thomas Buchmann and Matthias Bank and Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2022-BuchmannBW22.md
 excerpt: 'This paper is about '
-date: 2022
+date: 2022-01-01
 venue: 'Journal of Systems and Software'
 paperurl: ''
 ---

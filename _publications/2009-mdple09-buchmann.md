@@ -4,7 +4,7 @@ author: "Thomas Buchmann and Alexander Dotor"
 collection: publications
 permalink: /publication/2009-mdple09-buchmann.md
 excerpt: 'This paper is about '
-date: 2009
+date: 2009-01-01
 venue: '1st International Workshop on Model-Driven Product Line Engineering (MDPLE'09)'
 paperurl: ''
 ---
