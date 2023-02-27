@@ -11,6 +11,9 @@ paperurl: ''
 
 Published in *CoRR*, 2014
 
+Download: [Paper](http://arxiv.org/abs/1401.1376)
+
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannBHW14.bib)
 Abstract
 =====
 

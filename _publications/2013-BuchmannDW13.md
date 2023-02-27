@@ -13,6 +13,7 @@ Published in *Information and Software Technology*, 2013
 
 DOI: [10.1016/j.infsof.2012.07.010](https://doi.org/10.1016/j.infsof.2012.07.010)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannDW13.bib)
 Abstract
 =====
 

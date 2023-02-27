@@ -13,6 +13,7 @@ Published in *SN Computer Science*, 2023
 
 DOI: [10.1007/s42979-022-01456-8](https://doi.org/10.1007/s42979-022-01456-8)
 
+[Download .bib-File](http://tbuchmann.github.io/files/SchropferBW23.bib)
 Abstract
 =====
 

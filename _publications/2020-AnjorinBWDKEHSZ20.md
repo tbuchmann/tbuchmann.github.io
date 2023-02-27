@@ -13,6 +13,7 @@ Published in *Software and Systems Modeling (SoSym)*, 2020
 
 DOI: [10.1007/s10270-019-00752-x](https://doi.org/10.1007/s10270-019-00752-x)
 
+[Download .bib-File](http://tbuchmann.github.io/files/AnjorinBWDKEHSZ20.bib)
 Abstract
 =====
 

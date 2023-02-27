@@ -11,6 +11,9 @@ paperurl: ''
 
 Published in *Software Engineering 2010 - Workshopband (inkl. Doktorandensymposium), Fachtagung des GI-Fachbereichs Softwaretechnik, 22.-26.02.2010, Paderborn*, 2010
 
+Download: [Paper](https://dl.gi.de/20.500.12116/20168)
+
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannDW10.bib)
 Abstract
 =====
 

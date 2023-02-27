@@ -11,6 +11,9 @@ paperurl: ''
 
 Published in *Proceedings of the 10th Transformation Tool Contest (TTC 2017), co-located with the 2017 Software Technologies: Applications and Foundations (STAF 2017), Marburg, Germany, July 21, 2017*, 2017
 
+Download: [Paper](http://ceur-ws.org/Vol-2026/paper2.pdf)
+
+[Download .bib-File](http://tbuchmann.github.io/files/AnjorinBW17.bib)
 Abstract
 =====
 

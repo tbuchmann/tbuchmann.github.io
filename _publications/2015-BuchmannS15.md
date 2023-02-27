@@ -13,6 +13,7 @@ Published in *ICSOFT-PT 2015 - Proceedings of the 10th International Conference 
 
 DOI: [10.5220/0005552200950102](https://doi.org/10.5220/0005552200950102)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannS15.bib)
 Abstract
 =====
 

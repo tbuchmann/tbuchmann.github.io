@@ -13,6 +13,7 @@ Published in *Software Technologies - 10th International Joint Conference, ICSOF
 
 DOI: [10.1007/978-3-319-30142-6_2](https://doi.org/10.1007/978-3-319-30142-6_2)
 
+[Download .bib-File](http://tbuchmann.github.io/files/SchwagerlBW15a.bib)
 Abstract
 =====
 

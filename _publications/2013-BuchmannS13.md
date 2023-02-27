@@ -13,6 +13,7 @@ Published in *ICSOFT 2013 - Proceedings of the 8th International Joint Conferenc
 
 DOI: [10.5220/0004522305360541](https://doi.org/10.5220/0004522305360541)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannS13.bib)
 Abstract
 =====
 

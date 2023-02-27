@@ -13,6 +13,7 @@ Published in *Software Technologies, 11th International Joint Conference, ICSOFT
 
 DOI: [10.1007/978-3-319-62569-0_10](https://doi.org/10.1007/978-3-319-62569-0_10)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannG16a.bib)
 Abstract
 =====
 

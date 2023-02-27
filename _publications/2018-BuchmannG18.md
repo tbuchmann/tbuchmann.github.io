@@ -13,6 +13,7 @@ Published in *Proceedings of the 6th International Conference on Model-Driven En
 
 DOI: [10.5220/0006563403260335](https://doi.org/10.5220/0006563403260335)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannG18.bib)
 Abstract
 =====
 

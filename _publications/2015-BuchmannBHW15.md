@@ -13,6 +13,7 @@ Published in *5th IEEE/ACM International Workshop on Product Line Approaches in 
 
 DOI: [10.1109/PLEASE.2015.15](https://doi.org/10.1109/PLEASE.2015.15)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannBHW15.bib)
 Abstract
 =====
 

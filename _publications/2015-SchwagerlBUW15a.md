@@ -13,6 +13,7 @@ Published in *Model-Driven Engineering and Software Development - Third Internat
 
 DOI: [10.1007/978-3-319-27869-8_2](https://doi.org/10.1007/978-3-319-27869-8_2)
 
+[Download .bib-File](http://tbuchmann.github.io/files/SchwagerlBUW15a.bib)
 Abstract
 =====
 

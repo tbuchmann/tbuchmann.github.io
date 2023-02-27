@@ -13,6 +13,7 @@ Published in *39th Euromicro Conference on Software Engineering and Advanced App
 
 DOI: [10.1109/SEAA.2013.19](https://doi.org/10.1109/SEAA.2013.19)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannW13.bib)
 Abstract
 =====
 

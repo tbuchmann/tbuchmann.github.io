@@ -13,6 +13,7 @@ Published in *Applications of Graph Transformations with Industrial Relevance - 
 
 DOI: [10.1007/978-3-642-34176-2_17](https://doi.org/10.1007/978-3-642-34176-2_17)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannWW11.bib)
 Abstract
 =====
 

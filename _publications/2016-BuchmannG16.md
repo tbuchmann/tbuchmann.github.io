@@ -13,6 +13,7 @@ Published in *Proceedings of the 11th International Joint Conference on Software
 
 DOI: [10.5220/0005957100270038](https://doi.org/10.5220/0005957100270038)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannG16.bib)
 Abstract
 =====
 

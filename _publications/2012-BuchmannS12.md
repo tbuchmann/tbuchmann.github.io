@@ -13,6 +13,7 @@ Published in *4th International Workshop on Feature-Oriented Software Developmen
 
 DOI: [10.1145/2377816.2377822](https://doi.org/10.1145/2377816.2377822)
 
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannS12.bib)
 Abstract
 =====
 

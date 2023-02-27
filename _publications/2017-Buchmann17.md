@@ -13,6 +13,7 @@ Published in *ENASE 2017 - Proceedings of the 12th International Conference on E
 
 DOI: [10.5220/0006353602630270](https://doi.org/10.5220/0006353602630270)
 
+[Download .bib-File](http://tbuchmann.github.io/files/Buchmann17.bib)
 Abstract
 =====
 

@@ -11,6 +11,9 @@ paperurl: ''
 
 Published in *Software Engineering 2011 - Workshopband (inkl. Doktorandensymposium), Fachtagung des GI-Fachbereichs Softwaretechnik, 21.-25.02.2011, Karlsruhe*, 2011
 
+Download: [Paper](https://dl.gi.de/20.500.12116/19893)
+
+[Download .bib-File](http://tbuchmann.github.io/files/BuchmannD11.bib)
 Abstract
 =====
 
