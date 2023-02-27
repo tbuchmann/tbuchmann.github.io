@@ -17,8 +17,8 @@ Recent Updates
 ------
 
 - Received **Best Paper Award** at the **[MODELSWARD 2023](https://modelsward.scitevents.org/)** conference for my paper *NICE: A Flexible Expression Language*
-- Paper accepted at SE (GI) Conference 2023
-- Paper accepted at MODELSWARD 2023 conference
+- Paper accepted at [Software Engineering (GI)](https://se-2023.gi.de/) Conference 2023
+- Paper accepted at  **[MODELSWARD 2023](https://modelsward.scitevents.org/)** conference
 - Two papers accepted in SN Computer Science (SNCS) Journal 2022
 - Invided paper at BX Workshop 2022
 - Paper accepted in Journal of Systems and Software (JSS) 2022
