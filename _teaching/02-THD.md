@@ -11,7 +11,7 @@ location: "Deggendorf, Germany"
 This is a description of my teaching experience at the Deggendorf Institute of Technology. 
 
 Undergraduate Courses (B.Sc.) - Lectures
-======
+-----
 
 - Software Engineering: Summer term 2023
 - Programmieren I: Winter term 2022
@@ -21,7 +21,7 @@ Undergraduate Courses (B.Sc.) - Lectures
 
 
 Undergraduate Courses (B.Sc.) - Excercises
-======
+-----
 
 - Software Engineering: Summer term 2023
 - Programmieren I: Winter term 2022
