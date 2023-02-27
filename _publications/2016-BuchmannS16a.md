@@ -1,6 +1,6 @@
 ---
 title: "Advancing Negative Variability in Model-Driven Software Product Line Engineering"
-author: "Thomas Buchmann and Felix Schwägerl"
+author: "Thomas Buchmann, Felix Schwägerl"
 collection: publications
 permalink: /publication/2016-BuchmannS16a
 excerpt: 'This paper is about '

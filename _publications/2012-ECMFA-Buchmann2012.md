@@ -1,6 +1,6 @@
 ---
 title: "FAMILE: Tool support for evolving model-driven product lines"
-author: "Thomas Buchmann and Felix Schwägerl"
+author: "Thomas Buchmann, Felix Schwägerl"
 collection: publications
 permalink: /publication/2012-ECMFA-Buchmann2012
 excerpt: 'This paper is about '

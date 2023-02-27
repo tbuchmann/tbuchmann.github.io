@@ -1,6 +1,6 @@
 ---
 title: "A Generic Projectional Editor for EMF Models"
-author: "Johannes Schröpfer and Thomas Buchmann and Bernhard Westfechtel"
+author: "Johannes Schröpfer, Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2020-SchropferBW20
 excerpt: 'This paper is about '

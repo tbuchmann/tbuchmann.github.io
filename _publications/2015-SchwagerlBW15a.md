@@ -1,6 +1,6 @@
 ---
 title: "Filtered Model-Driven Product Line Engineering with SuperMod: The Home Automation Case"
-author: "Felix Schwägerl and Thomas Buchmann and Bernhard Westfechtel"
+author: "Felix Schwägerl, Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2015-SchwagerlBW15a
 excerpt: 'This paper is about '

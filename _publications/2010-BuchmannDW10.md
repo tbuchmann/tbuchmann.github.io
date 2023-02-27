@@ -1,6 +1,6 @@
 ---
 title: "Werkzeuge zur modellgetriebenen Entwicklung von Produktlinien: Ein Erfahrungsbericht am Beispiel von Versionskontrollsystemen"
-author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
+author: "Thomas Buchmann, Alexander Dotor, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2010-BuchmannDW10
 excerpt: 'This paper is about '

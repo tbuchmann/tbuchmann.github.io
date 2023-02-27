@@ -1,6 +1,6 @@
 ---
 title: "Triple Graph Grammars or Triple Graph Transformation Systems?"
-author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
+author: "Thomas Buchmann, Alexander Dotor, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2008-BuchmannDW08
 excerpt: 'This paper is about '

@@ -1,6 +1,6 @@
 ---
 title: "Towards Easy Robot Programming - Using DSLs, Code Generators and Software Product Lines"
-author: "Johannes Baumgartl and Thomas Buchmann and Dominik Henrich and Bernhard Westfechtel"
+author: "Johannes Baumgartl, Thomas Buchmann, Dominik Henrich, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2013-BaumgartlBHW13
 excerpt: 'This paper is about '

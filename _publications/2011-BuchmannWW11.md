@@ -1,6 +1,6 @@
 ---
 title: "The Added Value of Programmed Graph Transformations - A Case Study from Software Configuration Management"
-author: "Thomas Buchmann and Bernhard Westfechtel and Sabine Winetzhammer"
+author: "Thomas Buchmann, Bernhard Westfechtel, Sabine Winetzhammer"
 collection: publications
 permalink: /publication/2011-BuchmannWW11
 excerpt: 'This paper is about '

@@ -1,6 +1,6 @@
 ---
 title: "MOD2-SCM: Eine modellgetriebene Produktlinie für Softwarekonfigurationsverwaltungssyteme"
-author: "Thomas Buchmann and Alexander Dotor"
+author: "Thomas Buchmann, Alexander Dotor"
 collection: publications
 permalink: /publication/2011-BuchmannD11
 excerpt: 'This paper is about '

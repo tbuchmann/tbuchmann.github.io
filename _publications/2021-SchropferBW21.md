@@ -1,6 +1,6 @@
 ---
 title: "A Framework for Projectional Multi-variant Model Editors"
-author: "Johannes Schröpfer and Thomas Buchmann and Bernhard Westfechtel"
+author: "Johannes Schröpfer, Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2021-SchropferBW21
 excerpt: 'This paper is about '

@@ -1,6 +1,6 @@
 ---
 title: "Towards the Integration of Model-Driven Engineering, Software Product Line Engineering, and Software Configuration Management"
-author: "Felix Schwägerl and Thomas Buchmann and Sabrina Uhrig and Bernhard Westfechtel"
+author: "Felix Schwägerl, Thomas Buchmann, Sabrina Uhrig, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2015-SchwagerlBUW15
 excerpt: 'This paper is about '

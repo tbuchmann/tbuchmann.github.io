@@ -1,6 +1,6 @@
 ---
 title: "Model-driven software engineering: concepts and tools for modeling-in-the-large with package diagrams"
-author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
+author: "Thomas Buchmann, Alexander Dotor, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2014-BuchmannDW14
 excerpt: 'This paper is about '

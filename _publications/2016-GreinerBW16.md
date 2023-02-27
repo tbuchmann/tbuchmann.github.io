@@ -1,6 +1,6 @@
 ---
 title: "Bidirectional Transformations with QVT-R: A Case Study in Round-trip Engineering UML Class Models and Java Source Code"
-author: "Sandra Greiner and Thomas Buchmann and Bernhard Westfechtel"
+author: "Sandra Greiner, Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2016-GreinerBW16
 excerpt: 'This paper is about '

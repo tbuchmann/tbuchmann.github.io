@@ -1,6 +1,6 @@
 ---
 title: "Incremental Bidirectional Transformations: Evaluating Declarative and Imperative Approaches using the AST2Dag Benchmark"
-author: "Matthias Bank and Sebastian Kaske and Thomas Buchmann and Bernhard Westfechtel"
+author: "Matthias Bank, Sebastian Kaske, Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2020-BankKBW20
 excerpt: 'This paper is about '

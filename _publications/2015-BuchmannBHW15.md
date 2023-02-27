@@ -1,6 +1,6 @@
 ---
 title: "Robots and their Variability - A Societal Challenge and a Potential Solution"
-author: "Thomas Buchmann and Johannes Baumgartl and Dominik Henrich and Bernhard Westfechtel"
+author: "Thomas Buchmann, Johannes Baumgartl, Dominik Henrich, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2015-BuchmannBHW15
 excerpt: 'This paper is about '

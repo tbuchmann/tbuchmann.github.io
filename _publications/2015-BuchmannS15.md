@@ -1,6 +1,6 @@
 ---
 title: "On A-posteriori Integration of Ecore Models and Hand-written Java Code"
-author: "Thomas Buchmann and Felix Schwägerl"
+author: "Thomas Buchmann, Felix Schwägerl"
 collection: publications
 permalink: /publication/2015-BuchmannS15
 excerpt: 'This paper is about '

@@ -1,6 +1,6 @@
 ---
 title: "Mapping Features to Domain Models in Fujaba"
-author: "Thomas Buchmann and Alexander Dotor"
+author: "Thomas Buchmann, Alexander Dotor"
 collection: publications
 permalink: /publication/2009-FD2009-Buchmann-1
 excerpt: 'This paper is about '

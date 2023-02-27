@@ -1,6 +1,6 @@
 ---
 title: "ModGraph: Graphtransformationen für EMF"
-author: "Thomas Buchmann and Bernhard Westfechtel and Sabine Winetzhammer"
+author: "Thomas Buchmann, Bernhard Westfechtel, Sabine Winetzhammer"
 collection: publications
 permalink: /publication/2012-BuchmannWW12
 excerpt: 'This paper is about '

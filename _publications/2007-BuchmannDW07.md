@@ -1,6 +1,6 @@
 ---
 title: "Model-Driven Development of Graphical Tools - Fujaba Meets GMF"
-author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
+author: "Thomas Buchmann, Alexander Dotor, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2007-BuchmannDW07
 excerpt: 'This paper is about '

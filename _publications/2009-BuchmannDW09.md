@@ -1,6 +1,6 @@
 ---
 title: "Model-driven Development of Software Configuration Management Systems - A Case Study in Model-driven Engineering"
-author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
+author: "Thomas Buchmann, Alexander Dotor, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2009-BuchmannDW09
 excerpt: 'This paper is about '

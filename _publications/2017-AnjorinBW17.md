@@ -1,6 +1,6 @@
 ---
 title: "The Families to Persons Case"
-author: "Anthony Anjorin and Thomas Buchmann and Bernhard Westfechtel"
+author: "Anthony Anjorin, Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2017-AnjorinBW17
 excerpt: 'This paper is about '

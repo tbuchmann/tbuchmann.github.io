@@ -1,6 +1,6 @@
 ---
 title: "Towards Incremental Round-Trip Engineering Using Model Transformations"
-author: "Thomas Buchmann and Bernhard Westfechtel"
+author: "Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2013-BuchmannW13
 excerpt: 'This paper is about '

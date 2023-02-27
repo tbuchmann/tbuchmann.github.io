@@ -1,6 +1,6 @@
 ---
 title: "Multi-variant Model Transformations - A Problem Statement"
-author: "Felix Schwägerl and Thomas Buchmann and Bernhard Westfechtel"
+author: "Felix Schwägerl, Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2016-SchwagerlBW16
 excerpt: 'This paper is about '

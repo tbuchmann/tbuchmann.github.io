@@ -1,6 +1,6 @@
 ---
 title: "Model-Driven Software Development with Graph Transformations: A Comparative Case Study"
-author: "Thomas Buchmann and Alexander Dotor and Sabrina Uhrig and Bernhard Westfechtel"
+author: "Thomas Buchmann, Alexander Dotor, Sabrina Uhrig, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2007-BuchmannDUW07
 excerpt: 'This paper is about '

@@ -1,6 +1,6 @@
 ---
 title: "Integrating UML and ALF: An Approach to Overcome the Code Generation Dilemma in Model-Driven Software Engineering"
-author: "Johannes Schröpfer and Thomas Buchmann"
+author: "Johannes Schröpfer, Thomas Buchmann"
 collection: publications
 permalink: /publication/2019-SchropferB19a
 excerpt: 'This paper is about '

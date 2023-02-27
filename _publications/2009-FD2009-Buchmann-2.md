@@ -1,6 +1,6 @@
 ---
 title: "Supporting Modeling in the Large in Fujaba"
-author: "Thomas Buchmann and Alexander Dotor and Martin Klinke"
+author: "Thomas Buchmann, Alexander Dotor, Martin Klinke"
 collection: publications
 permalink: /publication/2009-FD2009-Buchmann-2
 excerpt: 'This paper is about '

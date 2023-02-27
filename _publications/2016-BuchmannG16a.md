@@ -1,6 +1,6 @@
 ---
 title: "Bidirectional Model Transformations Using a Handcrafted Triple Graph Transformation System"
-author: "Thomas Buchmann and Sandra Greiner"
+author: "Thomas Buchmann, Sandra Greiner"
 collection: publications
 permalink: /publication/2016-BuchmannG16a
 excerpt: 'This paper is about '

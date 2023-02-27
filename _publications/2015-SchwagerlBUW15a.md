@@ -1,6 +1,6 @@
 ---
 title: "Realizing a Conceptual Framework to Integrate Model-Driven Engineering, Software Product Line Engineering, and Software Configuration Management"
-author: "Felix Schwägerl and Thomas Buchmann and Sabrina Uhrig and Bernhard Westfechtel"
+author: "Felix Schwägerl, Thomas Buchmann, Sabrina Uhrig, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2015-SchwagerlBUW15a
 excerpt: 'This paper is about '

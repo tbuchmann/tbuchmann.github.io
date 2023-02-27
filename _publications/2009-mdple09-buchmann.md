@@ -1,6 +1,6 @@
 ---
 title: "Constraints for a fine-grained mapping of feature models and executable domain models"
-author: "Thomas Buchmann and Alexander Dotor"
+author: "Thomas Buchmann, Alexander Dotor"
 collection: publications
 permalink: /publication/2009-mdple09-buchmann
 excerpt: 'This paper is about '

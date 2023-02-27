@@ -1,6 +1,6 @@
 ---
 title: "SuperMod - A Model-Driven Tool that Combines Version Control and Software Product Line Engineering"
-author: "Felix Schwägerl and Thomas Buchmann and Bernhard Westfechtel"
+author: "Felix Schwägerl, Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2015-SchwagerlBW15
 excerpt: 'This paper is about '

@@ -1,6 +1,6 @@
 ---
 title: "Experiences with Modeling in the Large in Fujaba"
-author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
+author: "Thomas Buchmann, Alexander Dotor, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2008-FD2008-Buchmann
 excerpt: 'This paper is about '

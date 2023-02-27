@@ -1,6 +1,6 @@
 ---
 title: "Ensuring well-formedness of configured domain models in model-driven product lines based on negative variability"
-author: "Thomas Buchmann and Felix Schwägerl"
+author: "Thomas Buchmann, Felix Schwägerl"
 collection: publications
 permalink: /publication/2012-BuchmannS12
 excerpt: 'This paper is about '

@@ -1,6 +1,6 @@
 ---
 title: "Using Meta-code Generation to Realize Higher-order Model Transformations"
-author: "Thomas Buchmann and Felix Schwägerl"
+author: "Thomas Buchmann, Felix Schwägerl"
 collection: publications
 permalink: /publication/2013-BuchmannS13
 excerpt: 'This paper is about '

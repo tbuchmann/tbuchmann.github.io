@@ -1,6 +1,6 @@
 ---
 title: "A Lightweight Framework for Graphical Editors on Android Devices"
-author: "Thomas Buchmann and Patrick Pezoldt"
+author: "Thomas Buchmann, Patrick Pezoldt"
 collection: publications
 permalink: /publication/2014-BuchmannP14
 excerpt: 'This paper is about '

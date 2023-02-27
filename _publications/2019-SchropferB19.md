@@ -1,6 +1,6 @@
 ---
 title: "Unifying Modeling and Programming with Valkyrie"
-author: "Johannes Schröpfer and Thomas Buchmann"
+author: "Johannes Schröpfer, Thomas Buchmann"
 collection: publications
 permalink: /publication/2019-SchropferB19
 excerpt: 'This paper is about '

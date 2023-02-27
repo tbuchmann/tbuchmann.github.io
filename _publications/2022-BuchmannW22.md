@@ -1,6 +1,6 @@
 ---
 title: "Engineering Bidirectional Model Transformations (Short Paper)"
-author: "Thomas Buchmann and Bernhard Westfechtel"
+author: "Thomas Buchmann, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2022-BuchmannW22
 excerpt: 'This paper is about '

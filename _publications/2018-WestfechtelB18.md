@@ -1,6 +1,6 @@
 ---
 title: "Incremental Bidirectional Transformations: Comparing Declarative and Procedural Approaches Using the Families to Persons Benchmark"
-author: "Bernhard Westfechtel and Thomas Buchmann"
+author: "Bernhard Westfechtel, Thomas Buchmann"
 collection: publications
 permalink: /publication/2018-WestfechtelB18
 excerpt: 'This paper is about '

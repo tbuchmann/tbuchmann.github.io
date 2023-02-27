@@ -1,6 +1,6 @@
 ---
 title: "MOD2-SCM: A model-driven product line for software configuration management systems"
-author: "Thomas Buchmann and Alexander Dotor and Bernhard Westfechtel"
+author: "Thomas Buchmann, Alexander Dotor, Bernhard Westfechtel"
 collection: publications
 permalink: /publication/2013-BuchmannDW13
 excerpt: 'This paper is about '

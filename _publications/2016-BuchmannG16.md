@@ -1,6 +1,6 @@
 ---
 title: "Handcrafting a Triple Graph Transformation System to Realize Round-trip Engineering Between UML Class Models and Java Source Code"
-author: "Thomas Buchmann and Sandra Greiner"
+author: "Thomas Buchmann, Sandra Greiner"
 collection: publications
 permalink: /publication/2016-BuchmannG16
 excerpt: 'This paper is about '
