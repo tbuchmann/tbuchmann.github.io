@@ -1,5 +1,5 @@
 ---
-title: "Talk on: Modell-getriebene Software \[Produktlinien\] Entwicklung"
+title: "Talk on: Modell-getriebene Software Produktlinien Entwicklung"
 collection: talks
 type: "Talk"
 permalink: /talks/2014-MDSPLE
