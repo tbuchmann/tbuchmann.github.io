@@ -12,7 +12,8 @@ paperurl: ''
 Published in *Joint Proceedings of co-located Events at the 8th European Conference on Modelling Foundations and Applications*, 2012
 
 Download: [Paper]
-[Download .bib-File](http://tbuchmann.github.io/files/ECMFA-Buchmann2012.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/ECMFA-Buchmann2012.bib)
+
 Abstract
 =====
 

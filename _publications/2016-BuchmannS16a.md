@@ -13,7 +13,8 @@ Published in *Evaluation of Novel Approaches to Software Engineering - 11th Inte
 
 DOI: [10.1007/978-3-319-56390-9_1](https://doi.org/10.1007/978-3-319-56390-9_1)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannS16a.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannS16a.bib)
+
 Abstract
 =====
 

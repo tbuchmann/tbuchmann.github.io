@@ -13,7 +13,8 @@ Published in *Model-Driven Engineering and Software Development - 7th Internatio
 
 DOI: [10.1007/978-3-030-37873-8_1](https://doi.org/10.1007/978-3-030-37873-8_1)
 
-[Download .bib-File](http://tbuchmann.github.io/files/SchropferB19a.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/SchropferB19a.bib)
+
 Abstract
 =====
 

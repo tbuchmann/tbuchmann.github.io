@@ -13,7 +13,8 @@ Published in *Models in Software Engineering, Workshops and Symposia at MODELS 2
 
 DOI: [10.1007/978-3-642-01648-6_15](https://doi.org/10.1007/978-3-642-01648-6_15)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannDW08.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannDW08.bib)
+
 Abstract
 =====
 

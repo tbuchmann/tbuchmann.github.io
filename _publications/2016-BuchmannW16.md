@@ -13,7 +13,8 @@ Published in *IET Software*, 2016
 
 DOI: [10.1049/iet-sen.2015.0125](https://doi.org/10.1049/iet-sen.2015.0125)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannW16.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannW16.bib)
+
 Abstract
 =====
 

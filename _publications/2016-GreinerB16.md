@@ -13,7 +13,8 @@ Published in *International Journal of Information System Modeling and Design*, 
 
 DOI: [10.4018/IJISMD.2016070104](https://doi.org/10.4018/IJISMD.2016070104)
 
-[Download .bib-File](http://tbuchmann.github.io/files/GreinerB16.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/GreinerB16.bib)
+
 Abstract
 =====
 

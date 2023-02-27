@@ -13,7 +13,8 @@ Published in *ICSOFT-EA 2014 - Proceedings of the 9th International Conference o
 
 DOI: [10.5220/0004984300810089](https://doi.org/10.5220/0004984300810089)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannP14.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannP14.bib)
+
 Abstract
 =====
 

@@ -13,7 +13,8 @@ Published in *Computer Science Research and Development*, 2014
 
 DOI: [10.1007/s00450-011-0201-1](https://doi.org/10.1007/s00450-011-0201-1)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannDW14.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannDW14.bib)
+
 Abstract
 =====
 

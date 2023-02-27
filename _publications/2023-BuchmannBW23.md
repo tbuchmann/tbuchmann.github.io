@@ -13,7 +13,8 @@ Published in *SN Computer Science*, 2023
 
 DOI: [10.1007/s42979-022-01448-8](https://doi.org/10.1007/s42979-022-01448-8)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannBW23.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannBW23.bib)
+
 Abstract
 =====
 

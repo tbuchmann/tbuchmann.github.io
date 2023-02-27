@@ -13,7 +13,8 @@ Published in *Modellierung 2012, 14.-16. März 2012, Bamberg, Deutschland*, 2012
 
 Download: [Paper](https://dl.gi.de/20.500.12116/18151)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannWW12.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannWW12.bib)
+
 Abstract
 =====
 

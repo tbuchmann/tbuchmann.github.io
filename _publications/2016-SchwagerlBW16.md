@@ -13,7 +13,8 @@ Published in *ENASE 2016 - Proceedings of the 11th International Conference on E
 
 DOI: [10.5220/0005878702030209](https://doi.org/10.5220/0005878702030209)
 
-[Download .bib-File](http://tbuchmann.github.io/files/SchwagerlBW16.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/SchwagerlBW16.bib)
+
 Abstract
 =====
 

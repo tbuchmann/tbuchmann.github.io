@@ -12,7 +12,8 @@ paperurl: ''
 Published in *Proceedings of the 13th International Software Product Line Conference (SPLC 2009)*, 2009
 
 Download: [Paper]
-[Download .bib-File](http://tbuchmann.github.io/files/SPLC2009-Buchmann.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/SPLC2009-Buchmann.bib)
+
 Abstract
 =====
 

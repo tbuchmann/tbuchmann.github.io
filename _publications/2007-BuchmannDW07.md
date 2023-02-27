@@ -12,7 +12,8 @@ paperurl: ''
 Published in *ICSOFT 2007, Proceedings of the Second International Conference on Software and Data Technologies, Volume SE, Barcelona, Spain, July 22-25, 2007*, 2007
 
 Download: [Paper]
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannDW07.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannDW07.bib)
+
 Abstract
 =====
 

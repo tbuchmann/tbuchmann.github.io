@@ -13,7 +13,8 @@ Published in *Proceedings of the 10th Transformation Tool Contest (TTC 2017), co
 
 Download: [Paper](http://ceur-ws.org/Vol-2026/paper2.pdf)
 
-[Download .bib-File](http://tbuchmann.github.io/files/AnjorinBW17.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/AnjorinBW17.bib)
+
 Abstract
 =====
 

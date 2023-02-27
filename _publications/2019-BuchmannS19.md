@@ -13,7 +13,8 @@ Published in *SICS Software-Intensive Cyber Physical Systems*, 2019
 
 DOI: [10.1007/s00450-016-0329-0](https://doi.org/10.1007/s00450-016-0329-0)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannS19.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannS19.bib)
+
 Abstract
 =====
 

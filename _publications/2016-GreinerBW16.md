@@ -13,7 +13,8 @@ Published in *MODELSWARD 2016 - Proceedings of the 4rd International Conference 
 
 DOI: [10.5220/0005644700150027](https://doi.org/10.5220/0005644700150027)
 
-[Download .bib-File](http://tbuchmann.github.io/files/GreinerBW16.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/GreinerBW16.bib)
+
 Abstract
 =====
 

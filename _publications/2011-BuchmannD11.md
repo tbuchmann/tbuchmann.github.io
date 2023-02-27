@@ -13,7 +13,8 @@ Published in *Software Engineering 2011 - Workshopband (inkl. Doktorandensymposi
 
 Download: [Paper](https://dl.gi.de/20.500.12116/19893)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannD11.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannD11.bib)
+
 Abstract
 =====
 

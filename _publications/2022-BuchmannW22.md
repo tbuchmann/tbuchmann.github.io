@@ -13,7 +13,8 @@ Published in *STAF 2022 Workshop Proceedings: 10th International Workshop on Bid
 
 Download: [Paper](http://ceur-ws.org/Vol-3250/bxpaper4.pdf)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannW22.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannW22.bib)
+
 Abstract
 =====
 

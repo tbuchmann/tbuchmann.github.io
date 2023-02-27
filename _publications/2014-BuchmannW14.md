@@ -13,7 +13,8 @@ Published in *Software and Systems Modeling (SoSym)*, 2014
 
 DOI: [10.1007/s10270-012-0305-5](https://doi.org/10.1007/s10270-012-0305-5)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannW14.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannW14.bib)
+
 Abstract
 =====
 

@@ -13,7 +13,8 @@ Published in *MODELSWARD 2015 - Proceedings of the 3rd International Conference 
 
 DOI: [10.5220/0005195000050018](https://doi.org/10.5220/0005195000050018)
 
-[Download .bib-File](http://tbuchmann.github.io/files/SchwagerlBUW15.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/SchwagerlBUW15.bib)
+
 Abstract
 =====
 

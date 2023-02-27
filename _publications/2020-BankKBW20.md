@@ -13,7 +13,8 @@ Published in *Proceedings of the 15th International Conference on Evaluation of 
 
 DOI: [10.5220/0009206602490260](https://doi.org/10.5220/0009206602490260)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BankKBW20.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BankKBW20.bib)
+
 Abstract
 =====
 

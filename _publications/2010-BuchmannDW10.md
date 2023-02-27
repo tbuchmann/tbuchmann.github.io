@@ -13,7 +13,8 @@ Published in *Software Engineering 2010 - Workshopband (inkl. Doktorandensymposi
 
 Download: [Paper](https://dl.gi.de/20.500.12116/20168)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannDW10.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannDW10.bib)
+
 Abstract
 =====
 

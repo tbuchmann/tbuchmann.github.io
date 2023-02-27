@@ -13,7 +13,8 @@ Published in *Evaluation of Novel Approaches to Software Engineering - 13th Inte
 
 DOI: [10.1007/978-3-030-22559-9_5](https://doi.org/10.1007/978-3-030-22559-9_5)
 
-[Download .bib-File](http://tbuchmann.github.io/files/WestfechtelB18.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/WestfechtelB18.bib)
+
 Abstract
 =====
 

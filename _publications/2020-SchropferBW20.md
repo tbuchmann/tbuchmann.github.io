@@ -13,7 +13,8 @@ Published in *Proceedings of the 8th International Conference on Model-Driven En
 
 DOI: [10.5220/0008971003810392](https://doi.org/10.5220/0008971003810392)
 
-[Download .bib-File](http://tbuchmann.github.io/files/SchropferBW20.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/SchropferBW20.bib)
+
 Abstract
 =====
 

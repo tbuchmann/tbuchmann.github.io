@@ -13,7 +13,8 @@ Published in *Journal of Systems and Software*, 2022
 
 DOI: [10.1016/j.jss.2022.111288](https://doi.org/10.1016/j.jss.2022.111288)
 
-[Download .bib-File](http://tbuchmann.github.io/files/BuchmannBW22.bib)
+[Download .bib-File](https://tbuchmann.github.io/files/BuchmannBW22.bib)
+
 Abstract
 =====
 
