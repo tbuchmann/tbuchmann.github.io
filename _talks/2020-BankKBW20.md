@@ -10,4 +10,4 @@ location: ""
 
 In this talk I presented our paper **Incremental Bidirectional Transformations: Evaluating Declarative and Imperative Approaches using the AST2Dag Benchmark**.
 
-You can find the paper [here](https://tbuchmann.github.io/publications/2020-BankKBW20)
+You can find the paper [here](https://tbuchmann.github.io/publication/2020-BankKBW20)

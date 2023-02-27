@@ -10,4 +10,4 @@ location: "Bayreuth, Germany"
 
 In this talk I presented our paper **Building Graphical Editors with GEF and Fujaba**.
 
-You can find the paper [here](https://tbuchmann.github.io/publications/2006-FD2006-Buchmann)
+You can find the paper [here](https://tbuchmann.github.io/publication/2006-FD2006-Buchmann)
