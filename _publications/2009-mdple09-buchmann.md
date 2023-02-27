@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2009-mdple09-buchmann
 excerpt: 'This paper is about '
 year: 2009
-venue: '1st International Workshop on Model-Driven Product Line Engineering (MDPLE'09)'
+venue: '1st International Workshop on Model-Driven Product Line Engineering (MDPLE09)'
 paperurl: ''
 ---
 
