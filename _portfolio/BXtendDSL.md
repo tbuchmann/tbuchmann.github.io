@@ -7,7 +7,25 @@ collection: portfolio
 Description
 -----
 
-BXtend ist ein Projekt im Bereich bidirektionaler und inkrementeller Modell-zu-Modell Transformationen. Umfangreiche Fallstudien auf diesem Gebiet haben zu der Erkenntnis geführt, dass existierende Ansätze für in der Praxis auftretende Transformationsprobleme zu starr und unflexibel sind, da sie auf einem vorgegebenen Paradigma aufsetzen und dieses strikt verfolgen (z. B. regel-basierte Sprachen, constraint-basierte Sprachen). Oftmals lassen sich die Transformationsregeln aber rein deklarativ nur sehr schwer und unter großen Mühen ausdrücken. Hier wären imperative Sprachkonstrukte hilfreich, vor allem bei Regeln, deren rechte Seiten Variabilität enthalten. BXtend ist ein Lösungsansatz hierfür: Das Framework bietet ein generisches Korrespondenzmodell mit zugehöriger Infrastruktur. Es werden Regelklassen generiert, in die der Transformationsentwickler lediglich die Transformationsvorschriften für Vorwärts- und Rückwärtsrichtung mit Hilfe der Programmiersprache Xtend eintragen muss. Im Vergleich mit herkömmlichen Ansätzen zeigt sich auch der Mehrwert von BXtend
+Our research in the context of bidirectional model transformations follows a more pragmatic approach. Our primary 
+focus lies on *expressiveness*, *conciseness*, and *scalability*. To this end, we combine a *declarative DSL* with 
+an *imperative DSL*, the latter of which allows to specify all parts of the transformation that may not be addressed 
+by the declarative DSL.  
+
+**BXtendDSL** is a framework for the definition and execution of bidirectional incremental model transformations. 
+The framework is based on EMF and has been implemented in [Xtend](https://www.eclipse.org/xtend/), an expressive 
+dialect of the programming language Java. The models to be transformed are assumed to be instances of metamodels, 
+which in turn are defined with the help of Ecore, the metametamodel provided by EMF. A transformation is specified 
+in a small and light-weight external DSL called \emph{BXtendDSL Declarative}, which essentially serves to define 
+correspondences between model elements with the help of transformation rules. From a declarative specification, 
+code is generated against the libraries of the BXtendDSL framework. The application programming interfaces of 
+these libraries constitute an internal, imperative DSL called \emph{BXtendDSL Imperative}. The generated code 
+is extended with handwritten code that is written in the internal DSL. In this way, the transformation developer 
+may take care of operational details that go beyond the capabilities of the declarative language. Altogether, 
+BXtendDSL allows to write concise transformation definitions and at the same time provides the expressiveness 
+required for solving a wide range of bidirectional transformation problems. Furthermore, execution of BXtendDSL 
+transformations proves scalable to large model sizes.
+
 
 Publications
 -----
