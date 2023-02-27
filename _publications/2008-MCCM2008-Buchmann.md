@@ -11,7 +11,7 @@ paperurl: ''
 
 Published in *Proceedings 1st International Workshop on Co-Evolution and Consistency Management (MCCM 2008)*, 2008
 
-Download: [Paper]
+
 [Download .bib-File](https://tbuchmann.github.io/files/MCCM2008-Buchmann.bib)
 
 Abstract

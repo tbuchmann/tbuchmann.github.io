@@ -11,7 +11,7 @@ paperurl: ''
 
 Published in *1st International Workshop on Model-Driven Product Line Engineering (MDPLE09)*, 2009
 
-Download: [Paper]
+
 [Download .bib-File](https://tbuchmann.github.io/files/mdple09-buchmann.bib)
 
 Abstract

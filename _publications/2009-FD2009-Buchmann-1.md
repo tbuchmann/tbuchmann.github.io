@@ -11,7 +11,7 @@ paperurl: ''
 
 Published in *Proceedings of the 7th International Fujaba Days*, 2009
 
-Download: [Paper]
+
 [Download .bib-File](https://tbuchmann.github.io/files/FD2009-Buchmann-1.bib)
 
 Abstract

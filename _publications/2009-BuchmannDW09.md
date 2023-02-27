@@ -11,7 +11,7 @@ paperurl: ''
 
 Published in *ICSOFT 2009 - Proceedings of the 4th International Conference on Software and Data Technologies, Volume 1, Sofia, Bulgaria, July 26-29, 2009*, 2009
 
-Download: [Paper]
+
 [Download .bib-File](https://tbuchmann.github.io/files/BuchmannDW09.bib)
 
 Abstract
