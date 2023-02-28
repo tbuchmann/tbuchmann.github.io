@@ -7,11 +7,11 @@ collection: portfolio
 Description
 -----
 
-Model transformations constitute a key technology for model-driven software engineering. Languages for model transformations rely on different computational paradigms, support batch or incremental, in-place or out-place transformations, etc. Model transformations may also be classified with respect to their direction. A \emph{unidirectional transformation} receives a source model as input and returns a target model. In contrast, a \emph{bidirectional transformation} \cite{DBLP:conf/ac/Abou-SalehCGMS16} may be executed in both directions.
+Model transformations constitute a key technology for model-driven software engineering. Languages for model transformations rely on different computational paradigms, support batch or incremental, in-place or out-place transformations, etc. Model transformations may also be classified with respect to their direction. A *unidirectional transformation* receives a source model as input and returns a target model. In contrast, a *bidirectional transformation* may be executed in both directions.
 
 In software engineering, a strict forward engineering process requires a chain of unidirectional transformations, which transform requirements eventually into code. In contrast, *roundtrip engineering* calls for bidirectional transformations that propagate changes back and forth. Bidirectional transformations have been studied also in a wide range of other application domains, including e.g. view-update problems in databases or bidirectional data exchange.
 
-Developing bidirectional transformations in a conventional programming language is awkward and error-prone: Both transformation directions have to be programmed explicitly at a low level of abstraction, taking algorithmic details of change propagation into account. Therefore, *domain-specific languages (DSLs)}* and *theoretical approaches* tailored towards bidirectional transformations have been developed.
+Developing bidirectional transformations in a conventional programming language is awkward and error-prone: Both transformation directions have to be programmed explicitly at a low level of abstraction, taking algorithmic details of change propagation into account. Therefore, *domain-specific languages (DSLs)* and *theoretical approaches* tailored towards bidirectional transformations have been developed.
 
 Research on bidirectional transformations has often focused on the development of declarative approaches that guarantee consistent behavior of forward and backward transformations. Consistency has been formalized by a number of *bidirectional transformation laws* of different kinds.
 
