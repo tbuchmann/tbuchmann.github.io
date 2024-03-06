@@ -17,7 +17,10 @@ Education
 
 Work experience
 -----
-* since 2022: Professor for Software Engineering
+* since 2024: Professor for Practical Computer Science
+  * Hof University
+  
+* 2022-2024: Professor for Software Engineering
   * Deggendorf Institute of Technology
 
 * 2011-2022: Postdoctoral Researcher
