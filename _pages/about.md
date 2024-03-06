@@ -16,8 +16,8 @@ Prior to my PhD, I have worked in industry as a software developer, as a softwar
 Recent Updates
 ------
 
-- Paper acceptet at **[MODELSWARD 2024](https://modelsward.scitevents.org/)** conference
-- Two Papers acceptet at **[Transformation Tool Contest 2023](https://www.transformation-tool-contest.eu/)**
+- Paper accepted at **[MODELSWARD 2024](https://modelsward.scitevents.org/)** conference
+- Two Papers accepted at **[Transformation Tool Contest 2023](https://www.transformation-tool-contest.eu/)**
 - Received **Best Paper Award** at the **[MODELSWARD 2023](https://modelsward.scitevents.org/)** conference for my paper *NICE: A Flexible Expression Language*
 - Paper accepted at [Software Engineering (GI)](https://se-2023.gi.de/) Conference 2023
 - Paper accepted at  **[MODELSWARD 2023](https://modelsward.scitevents.org/)** conference

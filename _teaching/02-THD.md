@@ -13,18 +13,33 @@ This is a description of my teaching experience at the Deggendorf Institute of T
 Undergraduate Courses (B.Sc.) - Lectures
 -----
 
-- Software Engineering: Summer term 2023
-- Programmieren I: Winter term 2022
-- Programmieren II: Summer term 2023
+- Software Engineering: Summer term 2023, 2024
+- Programmieren I: Winter term 2022, 2023
+- Programmieren II: Summer term 2023, Winter term 2023
 - Grundlagen der Informatik: Winter term 2022
-- Betriebssysteme und Netzwerke: Winter term 2022
+- Betriebssysteme und Netzwerke: Winter term 2022, 2023
 
 
 Undergraduate Courses (B.Sc.) - Excercises
 -----
 
-- Software Engineering: Summer term 2023
-- Programmieren I: Winter term 2022
-- Programmieren II: Summer term 2023
+- Software Engineering: Summer term 2023, 2024
+- Programmieren I: Winter term 2022, 2023
+- Programmieren II: Summer term 2023, Winter term 2023
 - Grundlagen der Informatik: Winter term 2022
-- Betriebssysteme und Netzwerke: Winter term 2022
+- Betriebssysteme und Netzwerke: Winter term 2022, 2023
+
+
+Graduate Courses (M.Sc.) - Lectures
+-----
+
+- Modell-basierte Softwareentwicklung: Winter term 2023
+- Advanced Software Engineering: Winter term 2023
+
+
+Graduate Courses (M.Sc.) - Exercises
+-----
+
+- Modell-basierte Softwareentwicklung: Winter term 2023
+- Advanced Software Engineering: Winter term 2023
+
