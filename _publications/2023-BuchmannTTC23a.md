@@ -5,11 +5,11 @@ collection: publications
 permalink: /publication/2023-BuchmannTTC23a
 excerpt: 'This paper is about '
 year: 2023
-venue: 'Post Proceedings of the STAF 2023 Workshops TTC 2023, MeSS 2023 and AgileMDE 2023, Leicester, United Kingdom, July 18, 2023 and June 21, 2023'
+venue: 'Post Proceedings of the STAF 2023 Workshops TTC 2023, MeSS 2023 and AgileMDE 2023, Leicester, United Kingdom, July 18, 2023 and June'
 paperurl: ''
 ---
 
-Published in *Post Proceedings of the STAF 2023 Workshops TTC 2023, MeSS 2023 and AgileMDE 2023, Leicester, United Kingdom, July 18, 2023 and June 21, 2023*, 2023
+Published in *Post Proceedings of the STAF 2023 Workshops TTC 2023, MeSS 2023 and AgileMDE 2023, Leicester, United Kingdom, July 18, 2023 and June*, 2023
 
 Download: [Paper](https://ceur-ws.org/Vol-3620/ttc23_paper12.pdf)
 
