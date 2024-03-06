@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Prof. Dr. Thomas Buchmann"
   avatar           : "profile2.png"
-  bio              : "Professor for Software Engineering"
-  location         : "Deggendorf"
-  employer         : "Deggendorf Institute of Technology"
+  bio              : "Professor for Practical Computer Science"
+  location         : "Hof"
+  employer         : "Hof University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   dblp             : "https://dblp.org/pid/06/2610"
   googlescholar    : "https://scholar.google.com/citations?user=LU0mmcUAAAAJ"
-  email            : "thomas.buchmann@th-deg.de"
+  email            : "thomas.buchmann@hof-university.de"
   researchgate     : "https://www.researchgate.net/profile/Thomas-Buchmann"
   uri              :
   bitbucket        :
