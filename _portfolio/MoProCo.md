@@ -21,6 +21,6 @@ Publications
 GitHub Repos
 -----
 
-[Textual Modeling Language](https://github.com/tbuchmann/class-diag-langium)
-[LLM Integration](https://github.com/tbuchmann/mdellmprocessor)
+- [Textual Modeling Language](https://github.com/tbuchmann/class-diag-langium)
+- [LLM Integration](https://github.com/tbuchmann/mdellmprocessor)
 
