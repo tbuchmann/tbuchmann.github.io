@@ -30,6 +30,10 @@ transformations proves scalable to large model sizes.
 Publications
 -----
 
+- [An Expression Language for Model Transformations](https://tbuchmann.github.io/publication/2024-Hacker2024)
+- [A BXtendDSL Solution to the {TTC2023} Asymmetric and Directed Bidirectional Transformation for Container Orchestrations Case](https://tbuchmann.github.io/publication/2023-BuchmannTTC23)
+- [A BXtendDSL Solution to the {TTC2023} Incremental {MTL} vs. GPLs Case](https://tbuchmann.github.io/publication/2023-BuchmannTTC23a)
+- [NICE: A Flexible Expression Language](https://tbuchmann.github.io/publication/2023-Hacker2023)
 - [BXtendDSL: A layered framework for bidirectional model transformations combining a declarative and an imperative language (Summary)](https://tbuchmann.github.io/publication/2023-BuchmannBW23a)
 - [BXtendDSL at Work: Combining Declarative and Imperative Programming of Bidirectional Model Transformations](https://tbuchmann.github.io/publication/2023-BuchmannBW23)
 - [Engineering Bidirectional Model Transformations (Short Paper)](https://tbuchmann.github.io/publication/2022-BuchmannW22)

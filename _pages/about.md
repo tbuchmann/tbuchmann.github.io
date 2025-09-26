@@ -16,6 +16,7 @@ Prior to my PhD, I have worked in industry as a software developer, as a softwar
 Recent Updates
 ------
 
+- Paper accepted at **[20th International Conference on Software Technologies](https://icsoft.scitevents.org/)** conference
 - I serve as a PC member for the **[16th Transformation Tool Contest](https://transformationtoolcontest.github.io/)**
 - Two papers accepted at **[6th Workshop on Artificial Intelligence and Model-driven Engineering](https://mde-intelligence.github.io/)**
 - Paper accepted at **[First Workshop on Model Management](https://mom2024.wp.imt.fr/)**

@@ -24,6 +24,8 @@ In a later project, we added a declarative language on top of the BXtend framewo
 Publications
 -----
 
+- [Benchmarx 2.0: A Benchmark for Concurrent Model Synchronisation Approaches](https://tbuchmann.github.io/publication/2024-Anjorin2024)
+- [Prompting Bidirectional Model Transformations - The Good, The Bad and The Ugly](https://tbuchmann.github.io/publication/2024-Buchmann2024)
 - [Benchmarking bidirectional transformations: theory, implementation, application, and assessment](https://tbuchmann.github.io/publication/2020-AnjorinBWDKEHSZ20)
 - [The Families to Persons Case](https://tbuchmann.github.io/publication/2017-AnjorinBW17)
 - [Bidirectional Transformations with QVT-R: A Case Study in Round-trip Engineering UML Class Models and Java Source Code](https://tbuchmann.github.io/publication/2016-GreinerBW16)

@@ -17,6 +17,10 @@ Undergraduate Courses (B.Sc.) - Lectures
 - Rechnernetze: Summer term 2024
 - Entwicklung domänenspezifischer Sprachen: Summer term 2024
 - Statistik: Summer term 2024
+- Betriebssysteme: Winterterm 2024/2025, 2025/2026
+- Software System Entwicklung: Winterterm 2024/2025, 2025/2026
+- Grundlagen der Programmierung: Winterterm 2025/2025
+- Full-Stack Web Development: Summerterm 2025
 
 
 Undergraduate Courses (B.Sc.) - Excercises
@@ -26,3 +30,13 @@ Undergraduate Courses (B.Sc.) - Excercises
 - Rechnernetze: Summer term 2024
 - Entwicklung domänenspezifischer Sprachen: Summer term 2024
 - Statistik: Summer term 2024
+- Betriebssysteme: Winterterm 2024/2025, 2025/2026
+- Software System Entwicklung: Winterterm 2024/2025, 2025/2026
+- Grundlagen der Programmierung: Winterterm 2025/2025
+- Full-Stack Web Development: Summerterm 2025
+
+Graduate Courses (M.Sc.) 
+-----
+
+- New Technologies in Computer Science: Summer term 2025
+- E-Government Praxisprojekt: Winterterm 2025/2026
